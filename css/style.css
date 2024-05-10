@@ -1,0 +1,48 @@
+*{
+margin: 0;
+padding: 0;
+}
+header{
+background: brown;
+text-align: center;
+height: 50px;
+color: black;
+font-size: 20px;
+}
+nav{
+background: chartreuse;
+height: 50px;
+text-align: center;
+color: white;
+font-size: 20px;
+}
+section{
+display: flex;
+}
+.laft{
+width: 30%;
+text-align: center;
+background: green;
+color: saddlebrown;
+height: 140px;
+}
+.center{
+width: 40%;
+background: darkblue;
+color: wheat;
+text-align: center;
+height: 140px;
+}
+.right{
+width: 30%;
+background: gold;
+color: orangered;
+text-align: center;
+height: 140px;
+}
+footer{
+height: 30px;
+background: yellowgreen;
+color: chocolate;
+text-align: center;
+}
